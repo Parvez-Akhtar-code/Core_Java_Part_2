@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="AnnotationClassLvlEx"/>
 	<classpathentry kind="src" path="AnnotationMethodLvlEx"/>
+	<classpathentry kind="src" path="AnnotationFieldLvlEx"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
